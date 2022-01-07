@@ -10,7 +10,7 @@ If | I - j | = 3, and I and j are not equal, there is an edge from node I to nod
 
 [shortestPath.py](https://github.com/nadidebeyza/COMP303_AnalysisOfGraphAlgorithms/blob/1990796481474125c560920f9eafb08442280f1c/Source%20Code/shortestPath.pyhttp:// "shortestPath.py")
 
-> This section of Part 1 discusses Dijkstra's shortest route algorithm. The algorithm's running time was calculated by adding the running times of each line in the algorithm. When the distance between two cities, wij = i + j if |i-j| = 3, and I and j are not the same, the output indicates the stages of the method for N=10, S=1, D=6. The rest of the weights are infinite.
+This section of Part 1 discusses Dijkstra's shortest route algorithm. The algorithm's running time was calculated by adding the running times of each line in the algorithm. When the distance between two cities, wij = i + j if |i-j| = 3, and I and j are not the same, the output indicates the stages of the method for N=10, S=1, D=6. The rest of the weights are infinite.
 
 [![Example output of the code](https://github.com/nadidebeyza/COMP303_AnalysisOfGraphAlgorithms/blob/1990796481474125c560920f9eafb08442280f1c/Output/shortestPath_output1.png "Example output of the code")](https://github.com/nadidebeyza/COMP303_AnalysisOfGraphAlgorithms/blob/1990796481474125c560920f9eafb08442280f1c/Output/shortestPath_output1.png "Example output of the code")
 
